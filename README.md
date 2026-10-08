@@ -9,18 +9,31 @@ Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de jogo
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens de Programação:**
-- JavaScript, Python, C#, HTML5, CSS3, SQL, GDScript, Portugol
+## 🛠️ Tecnologias e Ferramentas
 
-**Frameworks, Ferramentas e Ambientes:**
-- React, Node.js, Django
-- Godot Engine, LibreSprite
-- Git, Vercel, Aternos
-- Bancos de Dados, Integração de APIs e Pipelines de Deploy
+**Linguagens de Programação:**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks, Ferramentas e Ambientes:**  
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godotengine)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+### 🐍 Minhas Contribuições
+![Snake animation](https://raw.githubusercontent.com/Yurigmorais/Yurigmorais/output/github-contribution-grid-snake-dark.svg)
 
-## 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurigmorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurigmorais&layout=compact&theme=dracula"/>
+</div>
