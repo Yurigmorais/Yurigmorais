@@ -9,8 +9,6 @@ Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de jogo
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tecnologias e Ferramentas
-
 **Linguagens de Programação:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,17 +18,12 @@ Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de jogo
 
 **Frameworks, Ferramentas e Ambientes:**  
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godotengine)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-### 🐍 Minhas Contribuições
-![Snake animation](https://raw.githubusercontent.com/Yurigmorais/Yurigmorais/output/github-contribution-grid-snake-dark.svg)
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
